@@ -254,4 +254,4 @@ O NotebookLM se mostrou uma ferramenta útil para organizar informações, sinte
 
 ## 12. Autor
 
-Projeto desenvolvido por **[Seu Nome]** como parte de um desafio prático da **DIO**.
+Projeto desenvolvido por **Marcos A. Koslinski** como parte de um desafio prático da **DIO**.
